@@ -1,39 +1,3 @@
-
-Claude finished the response
-You said: create a readme file to add to my github account.
-FadyMohy (Software Dev).pdf
-pdf
-
-create a readme file to add to my github account.
-not for a project. but for my profile itself
-
-5:28 PM
-Claude responded: To use it: create a GitHub repo named exactly fadymohyeldeen (same as your username), add this file as README.
-
-Viewed a file, created a file, read a file
-Viewed a file, created a file, read a file
-To use it: create a GitHub repo named exactly fadymohyeldeen (same as your username), add this file as README.md, and GitHub will automatically display it on your profile page.
-
-A few things I intentionally did in this:
-
-Led with your TA background as a strength, not something to apologize for — it's genuinely rare and interesting context
-Kept it concise — profile READMEs that go on forever don't get read
-Put the internship project front and center since that's your most current active work
-The table format for projects scans faster than bullet lists
-Let me know if you want to adjust the tone, add GitHub stats badges, or change anything.
-
-
-Readme
-Document · MD 
-
-Want to be notified when Claude responds?
-
-
-
-Claude is AI and can make mistakes. Please double-check responses.
-Readme · MD
-Copy
-
 # Hey, I'm Fady 👋
  
 Former **Technical Talent Acquisition Specialist** turned **Software Developer** — I crossed to the other side of the hiring table after years of deeply understanding what great engineers look like. Now I'm building things myself.
