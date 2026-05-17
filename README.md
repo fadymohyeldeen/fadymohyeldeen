@@ -1,6 +1,6 @@
 # Hey, I'm Fady 👋
 
-A Former Technical Talent Acquisition shifting to Software Development, bringing a unique blend of industry experience and hands-on development skills. Equipped with a strong background in the software industry, development lifecycle, agile methodologies, and team dynamics, I've transitioned into Software Development with a focus on building web applications using React.js and Next.js on the frontend, and Node.js and Java Spring Boot on the backend.
+A Software Developer, bringing a unique blend of industry experience and hands-on development skills. Equipped with a strong background in the software industry, development lifecycle, agile methodologies, and team dynamics, I've transitioned into Software Development with a focus on building web applications using React.js and Next.js on the frontend, and Node.js and Java Spring Boot on the backend.
 
 ---
 
